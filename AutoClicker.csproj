@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>AutoClicker</AssemblyName>
+    <RootNamespace>AutoClicker</RootNamespace>
+    <ApplicationIcon>app_ico.ico</ApplicationIcon>
+    <Version>1.0.0</Version>
+    <Authors>dimakovboi</Authors>
+    <Copyright>Copyright © dimakovboi 2026</Copyright>
+    <Description>AutoClicker Pro — продвинутый автокликер</Description>
+  </PropertyGroup>
+</Project>
